@@ -84,3 +84,22 @@
 2024-08-21 18:49:58 1724246398 IST +0530 | root | DEBUG | duck.quack()='Quack!'
 2024-08-21 18:49:58 1724246398 IST +0530 | root | DEBUG | duck.quack()='Quack!'
 2024-08-21 18:49:58 1724246398 IST +0530 | root | DEBUG | make_quack(duck)=None
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Module name is: logging_configuration
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/logging_configuration']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: use_of_protocols_and_interfaces
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/use_of_protocols_and_interfaces']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: use_of_protocols_and_interfaces.duck
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/use_of_protocols_and_interfaces/duck']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: mixins_and_multiple_inheritance
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/mixins_and_multiple_inheritance']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: mixins_and_multiple_inheritance.duck
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/mixins_and_multiple_inheritance/duck']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: use_of_protocols_and_interfaces.quackable
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/use_of_protocols_and_interfaces/quackable']
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | Name of module: __main__
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | File containing module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/OOP-Object-Oriented-Programming-Python-Programming-Language-CPython/Rethinking-The-Need-For-Abstract-Classes-In-Python/src/main.py
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | duck.quack()='Quack!'
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | duck.quack()='Quack!'
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | make_quack(duck)=None
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | another_duck.quack()="Quack! <class 'mixins_and_multiple_inheritance.duck.duck.Duck'>"
+2024-08-21 19:41:52 1724249512 IST +0530 | root | DEBUG | another_duck.fly()='I can fly!'
