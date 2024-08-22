@@ -8,6 +8,8 @@
 6. [Instagram](https://www.instagram.com/tech_with_tim/)
 7. [Github](https://github.com/techwithtim)
 
+## Introduction
+
 1. Before Data Classes
 2. An Introduction To Data Classes
 3. How A Data Class Works
