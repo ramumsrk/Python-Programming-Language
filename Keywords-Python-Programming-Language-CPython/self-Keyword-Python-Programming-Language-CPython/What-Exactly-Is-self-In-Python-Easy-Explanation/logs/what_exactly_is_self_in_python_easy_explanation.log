@@ -1,0 +1,10 @@
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Keywords-Python-Programming-Language-CPython/self-Keyword-Python-Programming-Language-CPython/What-Exactly-Is-self-In-Python-Easy-Explanation/src/logging_configuration']
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | Name of module is: dataclasses_car
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Keywords-Python-Programming-Language-CPython/self-Keyword-Python-Programming-Language-CPython/What-Exactly-Is-self-In-Python-Easy-Explanation/src/dataclasses_car']
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Keywords-Python-Programming-Language-CPython/self-Keyword-Python-Programming-Language-CPython/What-Exactly-Is-self-In-Python-Easy-Explanation/src/main_dataclasses_car.py
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | volvo=Car(car_brand='Volvo', car_fuel_type='Diesel')
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | volvo.drive(distance=10)="Driving 'Volvo' running on 'Diesel' for a distance of '10' km"
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | bmw=Car(car_brand='BMW', car_fuel_type='Electric')
+2024-08-22 11:08:28 1724305108 IST +0530 | root | DEBUG | bmw.drive(distance=10)="Driving 'BMW' running on 'Electric' for a distance of '10' km"
