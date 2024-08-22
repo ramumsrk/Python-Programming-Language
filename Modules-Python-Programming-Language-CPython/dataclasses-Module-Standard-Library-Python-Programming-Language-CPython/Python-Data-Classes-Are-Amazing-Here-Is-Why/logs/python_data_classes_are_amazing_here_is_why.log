@@ -1,0 +1,37 @@
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/logging_configuration']
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Name of module is: before_dataclasses
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_dataclasses']
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Name of module is: before_dataclasses.point
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_dataclasses/point']
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-34-08/22/24 08:34:47 1724295887 IST +0530 | root | DEBUG | File containing module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/main_Point.py
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/logging_configuration']
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Name of module is: before_dataclasses
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_dataclasses']
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Name of module is: before_dataclasses.point
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_dataclasses/point']
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | File containing module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/main_Point.py
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | first_point=Point(x=1, y=2)
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | second_point=Point(x=2, y=1)
+2024-35-08/22/24 08:35:42 1724295942 IST +0530 | root | DEBUG | (first_point == second_point)=False
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/logging_configuration']
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: before_data_classes
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_data_classes']
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: before_data_classes.point
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/before_data_classes/point']
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: an_introduction_to_data_classes
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/an_introduction_to_data_classes']
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: an_introduction_to_data_classes.point
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/an_introduction_to_data_classes/point']
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | File containing module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Modules-Python-Programming-Language-CPython/dataclasses-Standard-Library-Python-Programming-Language-CPython/Python-Data-Classes-Are-Amazing-Here-Is-Why/src/main_Point.py
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | first_point=Point(x=1, y=2)
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | second_point=Point(x=2, y=1)
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | (first_point == second_point)=False
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | third_point=Point(x_coordinate=1, y_coordinate=2)
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | fourth_point=Point(x_coordinate=2, y_coordinate=1)
+2024-08-22 08:44:33 1724296473 IST +0530 | root | DEBUG | (third_point == fourth_point)=False
