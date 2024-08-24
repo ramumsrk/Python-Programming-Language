@@ -1,0 +1,1 @@
+# [Try This Simple Python Decorator It Is Super Useful](https://www.youtube.com/watch?v=4WQba4KwmRs&list=PLRzwgpycm-FhiYH16_DrrHFO0DHqMLpv4&index=6)

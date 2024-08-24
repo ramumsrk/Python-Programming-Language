@@ -1,0 +1,1 @@
+# [How I Organize Data In Python With Dataclasses](https://www.youtube.com/watch?v=5mpLJxKfnXQ&list=PLRzwgpycm-FhiYH16_DrrHFO0DHqMLpv4&index=5)
