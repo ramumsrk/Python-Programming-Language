@@ -1,0 +1,1 @@
+# [6 Classes And Objects Python Tutorial 6 Private And Public Classes](https://www.youtube.com/watch?v=xY__sjI5yVU&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=6)

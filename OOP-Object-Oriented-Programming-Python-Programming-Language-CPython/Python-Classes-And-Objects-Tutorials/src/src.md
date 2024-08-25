@@ -1,0 +1,1 @@
+This namespace or folder contains source code

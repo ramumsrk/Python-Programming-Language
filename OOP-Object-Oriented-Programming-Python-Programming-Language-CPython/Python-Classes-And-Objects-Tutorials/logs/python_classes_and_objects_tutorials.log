@@ -1,0 +1,183 @@
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:33:41.1724551421 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7fd6e1dc3020>
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f530d106fc0> is being initialized
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:39:24.1724551764 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f530d106fc0>
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7c6edc30e0> is being initialized
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7c6edc3110> is being initialized
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:41:05.1724551865 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7c6edc30e0>
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f188d8356a0> is being initialized
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | An instance of <class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f188d929850> is being initialized
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f188d8356a0>
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | type(fred)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:42:40.1724551960 IST +0530 | root | DEBUG | fred=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f188d929850>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7da233f3b0>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Tim'}
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7da233f3e0>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Fred'}
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7da233f3b0>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | type(fred)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:50:15.1724552415 IST +0530 | root | DEBUG | fred=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f7da233f3e0>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f3a01cc75c0>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Tim'}
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f3a01cc75f0>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Fred'}
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f3a01cc75c0>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | type(fred)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | fred=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7f3a01cc75f0>
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | tim.speak()='Tim says woof!'
+2024-08-25 07:53:53.1724552633 IST +0530 | root | DEBUG | fred.speak()='Fred says woof!'
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 07:58:25.1724552905 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_2_creating_classes
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_2_creating_classes']
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_2_creating_classes.py
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7fee322d1850>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Tim', 'dog_age': 55}
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | An instance of self.__class__=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'> is being initialized
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7fee3259aed0>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | self.__dict__={'dog_name': 'Fred', 'dog_age': 3}
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | type(tim)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | tim=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7fee322d1850>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | type(fred)=<class 'python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog'>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | fred=<python_oop_tutorial_object_oriented_programming_2_creating_classes.dog.dog.Dog object at 0x7fee3259aed0>
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | tim.speak()="self.dog_name='Tim' aged self.dog_age=55 says woof!"
+2024-08-25 08:00:12.1724553012 IST +0530 | root | DEBUG | fred.speak()="self.dog_name='Fred' aged self.dog_age=3 says woof!"
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_inheritance
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_inheritance']
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_inheritance.cat
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_inheritance/cat']
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_inheritance.animal
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_inheritance/animal']
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_inheritance.py
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_inheritance.cat.cat.Cat object at 0x7fd811fc3200>
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_inheritance.cat.cat.Cat'>
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | self.__dict__={'animal_name': 'Tim', 'animal_age': 5, 'animal_color': 'Blue'}
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | animal_cat=<python_oop_tutorial_object_oriented_programming_inheritance.cat.cat.Cat object at 0x7fd811fc3200>
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | animal_cat.__dict__={'animal_name': 'Tim', 'animal_age': 5, 'animal_color': 'Blue'}
+2024-08-25 12:04:40.1724567680 IST +0530 | root | DEBUG | animal_cat.speak()="'self.animal_name='Tim'', aged 'self.animal_age=5' years, and 'self.animal_color='Blue'' coloured says meow!"
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_overriding_methods
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods']
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/__init__.py
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_overriding_methods.point
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/point']
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/point/__init__.py
+2024-08-25 19:41:56.1724595116 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_overriding_methods
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods']
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/__init__.py
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Name of module is: python_oop_tutorial_object_oriented_programming_overriding_methods.point
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/point']
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/python_oop_tutorial_object_oriented_programming_overriding_methods/point/__init__.py
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_overriding_methods.py
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe018a68a40>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__dict__={'x_coordinate': 3, 'y_coordinate': 4}
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe01f0b9c70>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__dict__={'x_coordinate': 3, 'y_coordinate': 2}
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe018a68a70>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__dict__={'x_coordinate': 1, 'y_coordinate': 3}
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe018dbd4c0>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__dict__={'x_coordinate': 0, 'y_coordinate': 1}
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe0187c45f0>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | self.__dict__={'x_coordinate': 6, 'y_coordinate': 6}
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | fifth_point=<python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point object at 0x7fe0187c45f0>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | fifth_point.__class__=<class 'python_oop_tutorial_object_oriented_programming_overriding_methods.point.point.Point'>
+2024-08-25 19:42:41.1724595161 IST +0530 | root | DEBUG | fifth_point.__dict__={'x_coordinate': 6, 'y_coordinate': 6}
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Name of module is: practice_class_fields
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields']
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/__init__.py
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Name of module is: practice_class_fields.practice
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/practice']
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/practice/__init__.py
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_practice.py
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self=<practice_class_fields.practice.practice.Practice object at 0x7fd3dd69de50>
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self.__class__=<class 'practice_class_fields.practice.practice.Practice'>
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self.__dict__={'first_field': 1, 'second_field': 'One'}
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self=<practice_class_fields.practice.practice.Practice object at 0x7fd3de1c8980>
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self.__class__=<class 'practice_class_fields.practice.practice.Practice'>
+2024-08-25 20:15:56.1724597156 IST +0530 | root | DEBUG | self.__dict__={'first_field': 2, 'second_field': 'Two'}
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Name of module is: logging_configuration
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/logging_configuration']
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Name of module is: practice_class_fields
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields']
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/__init__.py
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Name of module is: practice_class_fields.practice
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Path to module is: ['/run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/practice']
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/practice_class_fields/practice/__init__.py
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | Name of module is: __main__
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | File constituting module is: /run/media/ramumsrk/1.0TiB/repositories/Python-Programming-Language-CPython/Python-Classes-And-Objects-Tutorials/src/main_practice.py
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self=<practice_class_fields.practice.practice.Practice object at 0x7fc5fa2a1850>
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self.__class__=<class 'practice_class_fields.practice.practice.Practice'>
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self.__dict__={'first_field': 1, 'second_field': 'One'}
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self=<practice_class_fields.practice.practice.Practice object at 0x7fc5fa300980>
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self.__class__=<class 'practice_class_fields.practice.practice.Practice'>
+2024-08-25 20:20:53.1724597453 IST +0530 | root | DEBUG | self.__dict__={'first_field': 2, 'second_field': 'Two'}
